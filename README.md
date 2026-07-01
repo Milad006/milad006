@@ -1,13 +1,11 @@
-<div>
-  <h3 align="center">
+<h3 align="center">
     Hi, I'm Alireza Moradi
-  </h3>
-  <img
-    src="./icons/utils/hand.png"
-    alt="hand"
-    width="30"
-  />
-</div>
+    <img
+      src="./icons/utils/hand.png"
+      alt="hand"
+      width="30"
+    />
+</h3>
 
 <p align="center">
   <strong>
