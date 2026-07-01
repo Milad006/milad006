@@ -3,9 +3,7 @@
 </h3>
 
 <p align="center">
-  <strong>
     Crafting modern web experiences using Next.js and NestJS &documenting the build journey at SkillGym
-  </strong>
 </p>
 
 <h4>Hi, I'm Alireza Moradi</h3>
