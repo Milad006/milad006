@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
     Hi, I'm Alireza Moradi
-</h3>
+</h1>
 
 <p align="center">
   <strong>
@@ -8,4 +8,4 @@
   </strong>
 </p>
 
-<h2>i, I'm Alireza Moradi</h2>
+<h3>i, I'm Alireza Moradi</h3>
